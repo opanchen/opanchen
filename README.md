@@ -22,7 +22,7 @@
 
 </div>
 
-<div align="center">
+<div align="">
   <h2>
   Feel free to view my <a target="_blank" rel="nofollow noopener noreferrer" href="https://opanchen-portfolio.vercel.app/">
     Portfolio

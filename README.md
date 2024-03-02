@@ -22,14 +22,13 @@
 
 </div>
 
-<div align="">
-  <h2>
-  Feel free to view my <a target="_blank" rel="nofollow noopener noreferrer" href="https://opanchen-portfolio.vercel.app/">
-    Portfolio
-  </a>!
+<div align="right">
+  <h2> <a target="_blank" rel="nofollow noopener noreferrer" href="https://opanchen-portfolio.vercel.app/">
+    PORTFOLIO
+  </a>
 </h2>
 
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+ 
 </div>
 
 ---
